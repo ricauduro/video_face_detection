@@ -1,3 +1,5 @@
+Unfortunally this service is no longer available for personal users in Azure... only for managed partners
+
 # video face detection
 Using Azure cognitive services and Python, perform face recogition / detection in real time videos.
 
